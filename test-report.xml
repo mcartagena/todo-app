@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite id="0" name="/Users/mcartage/workspace/9ef22ee5-b241-43ee-a81d-79a24129a891/src/reducers/todos.spec.js" errors="0" package="/Users/mcartage/workspace/9ef22ee5-b241-43ee-a81d-79a24129a891/src/reducers/todos.spec.js" hostname="localhost" tests="3" failures="0" time="0.466" timestamp="2020-04-16T19:50:57">
+    <properties>
+    </properties>
+    <testcase classname="todos reducer" name="should handle initial state" time="0">
+    </testcase>
+    <testcase classname="todos reducer" name="should handle ADD_TODO" time="0">
+    </testcase>
+    <testcase classname="todos reducer" name="should handle TOGGLE_TODO" time="0">
+    </testcase>
+    <system-out/>
+    <system-err/>
+  </testsuite>
+  <testsuite id="1" name="/Users/mcartage/workspace/9ef22ee5-b241-43ee-a81d-79a24129a891/src/actions/index.spec.js" errors="0" package="/Users/mcartage/workspace/9ef22ee5-b241-43ee-a81d-79a24129a891/src/actions/index.spec.js" hostname="localhost" tests="3" failures="0" time="0.033" timestamp="2020-04-16T19:50:58">
+    <properties>
+    </properties>
+    <testcase classname="todo actions" name="addTodo should create ADD_TODO action" time="0">
+    </testcase>
+    <testcase classname="todo actions" name="setVisibilityFilter should create SET_VISIBILITY_FILTER action" time="0">
+    </testcase>
+    <testcase classname="todo actions" name="toggleTodo should create TOGGLE_TODO action" time="0">
+    </testcase>
+    <system-out/>
+    <system-err/>
+  </testsuite>
+</testsuites>
